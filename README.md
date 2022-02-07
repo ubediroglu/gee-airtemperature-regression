@@ -20,5 +20,11 @@ All data used for exercises are obtained from open source database/resources suc
 <img src="https://github.com/ubediroglu/gee-airtemperature-regression/blob/main/images/gee.png" width="65"/> <img src="https://github.com/ubediroglu/gee-airtemperature-regression/blob/main/images/noaa.png" width="65"/> 
 </p>
 
+
+### Source Code
+https://code.earthengine.google.com/de6b52ce3b004063ffe5243f115d86c4
+https://code.earthengine.google.com/d1284baf94c2c4da3652c37eaeca9266
+https://code.earthengine.google.com/eed01603d9e28101ce359f1e76f57e99
+
 # License
 This work is licensed under the GPL v3.0.
