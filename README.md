@@ -19,9 +19,9 @@ Feel free to contact me if you need help on anything or have any suggestion. e-m
 
 All data used for exercises are obtained from open source database/resources such as The National Centres for Environmental Information open source data access site and Google Earth Engine datasets.
 
-
-<img src="https://github.com/ubediroglu/gee-airtemperature-regression/blob/main/images/gee.png" width="425"/> <img src="https://github.com/ubediroglu/gee-airtemperature-regression/blob/main/images/noaa.png" width="425"/> 
-
+<p align="center">
+<img src="https://github.com/ubediroglu/gee-airtemperature-regression/blob/main/images/gee.png" width="300"/> <img src="https://github.com/ubediroglu/gee-airtemperature-regression/blob/main/images/noaa.png" width="300"/> 
+</p>
 
 <br>
 
