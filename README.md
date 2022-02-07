@@ -14,16 +14,11 @@ With the regressions performed, estimation maps were obtained, and the obtained 
 
 <br>
 
-Feel free to contact me if you need help on anything or have any suggestion. e-mail: umut.bediroglu@hotmail.com
-
-
 All data used for exercises are obtained from open source database/resources such as The National Centres for Environmental Information open source data access site and Google Earth Engine datasets.
 
 <p align="center">
 <img src="https://github.com/ubediroglu/gee-airtemperature-regression/blob/main/images/gee.png" width="65"/> <img src="https://github.com/ubediroglu/gee-airtemperature-regression/blob/main/images/noaa.png" width="65"/> 
 </p>
-
-<br>
 
 # License
 This work is licensed under the GPL v3.0.
